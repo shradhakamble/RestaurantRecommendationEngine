@@ -1,5 +1,3 @@
-# Read Me First
-
 # Restaurant Recommendation Engine
 Build an application for restaurant recommendation to the food delivery app.
 
