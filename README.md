@@ -22,6 +22,7 @@ the use-case where faster recommendations are key I have decided to go with appr
 i.e., Parallel execution of condition logic using multiple threads. 
 
 # Steps to run the application
+ - JDK version 11
  - Go to /recommendation/src/test/java/com/restaurant/recommendation
  - Run ./RecommendationApplicationTests.java file
  - Add test case if required. 
